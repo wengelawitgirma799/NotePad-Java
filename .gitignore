@@ -1,0 +1,36 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Compiled class files
+*.class
+
+# Maven / Gradle
+target/
+bin/
+build/
+
+# Logs
+*.log
+
+# Generated files
+*.war
+*.ear
+*.jar
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.swp
+
+# IntelliJ IDEA (optional if using IntelliJ too)
+.idea/
+*.iml
+out/
+
+# VS Code (if used)
+.vscode/
